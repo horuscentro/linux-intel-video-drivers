@@ -38,7 +38,7 @@ fi
 echo '--------------------------------------------------------------------------------'
   echo '/////'
   echo 'Mesa 10.04...'
-directory="./MesaLib-10.4.0"
+directory="./Mesa-10.4.0"
 if [ -d $directory ]; then
   echo 'el directorio ya existe'
 else
